@@ -35,8 +35,8 @@ Cross-platform desktop app that helps users discover, join, and manage sports ev
   <img align="center" style="margin:1rem 0" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDeKlerk&repo=Sportify_Backend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+**Live Demo:** https://sportifydebuggers.netlify.app/ <br/>
 **Demo Video:** [View here](https://drive.google.com/file/d/1CiwN7nuiBjH8bNmesjZgu3gOOMJHbCVp/view?usp=drive_link)
-**Live Demo:** (https://sportifydebuggers.netlify.app/)  
 
 ---
 
