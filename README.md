@@ -36,6 +36,7 @@ Cross-platform desktop app that helps users discover, join, and manage sports ev
 </a>
 
 **Demo Video:** [View here](https://drive.google.com/file/d/1CiwN7nuiBjH8bNmesjZgu3gOOMJHbCVp/view?usp=drive_link)
+**Live Demo:** (https://sportifydebuggers.netlify.app/)  
 
 ---
 
