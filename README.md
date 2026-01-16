@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=JoshuaDeKlerk&style=for-the-badge&color=brightgreen" />
+
 # Hey there, I'm Joshua
 
 ### Interactive Developer · Mobile & Web · AI Features · Clean UI · Problem-Solver
